@@ -1,0 +1,10 @@
+D:\coding\C#\frontend\Games\breakout\breakout\bin\Debug\breakout.exe.config
+D:\coding\C#\frontend\Games\breakout\breakout\bin\Debug\breakout.exe
+D:\coding\C#\frontend\Games\breakout\breakout\bin\Debug\breakout.pdb
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.csproj.AssemblyReference.cache
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.Form1.resources
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.Properties.Resources.resources
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.csproj.GenerateResource.cache
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.csproj.CoreCompileInputs.cache
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.exe
+D:\coding\C#\frontend\Games\breakout\breakout\obj\Debug\breakout.pdb
